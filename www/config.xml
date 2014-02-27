@@ -2,10 +2,10 @@
 <widget id="com.GBbrothers.Astronautica" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Astronautica</name>
     <description>
-        Aplicació informativa sobre tot el que és l'Univers.
+        Hello World sample application that responds to the deviceready event.
     </description>
-    <author email="albertogomezblazquez@gmail.com" href="http://www.astronautica.tk">
-        GB Brothers
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        PhoneGap Team
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="permissions" value="none" />
